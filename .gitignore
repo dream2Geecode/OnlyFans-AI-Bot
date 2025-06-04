@@ -1,0 +1,16 @@
+﻿# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Other large files
+*.pth
+*.bin
+*.dll
+*.lib
+*.exe

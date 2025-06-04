@@ -1,0 +1,14 @@
+{
+    "default": [
+        {
+            "name": "Custom Video",
+            "price": 30,
+            "desc": "5-minute personalized video just for you 😍"
+        },
+        {
+            "name": "Explicit Photo Set",
+            "price": 15,
+            "desc": "10 private photos you'll love 🔥"
+        }
+    ]
+}
